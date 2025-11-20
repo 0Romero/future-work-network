@@ -16,30 +16,30 @@ function App() {
   const { toggleDarkMode } = useDarkMode()
 
   const areas = useMemo(
-    () => Array.from(new Set(profiles.map((p) => p.area))).sort(),
+    () => Array.from(new Set(profiles.map((profileData) => profileData.area))).sort(),
     [],
   )
   const cidades = useMemo(
-    () => Array.from(new Set(profiles.map((p) => p.localizacao))).sort(),
+    () => Array.from(new Set(profiles.map((profileData) => profileData.localizacao))).sort(),
     [],
   )
   const tecnologias = useMemo(
     () =>
       Array.from(
-        new Set(profiles.flatMap((p) => p.habilidadesTecnicas)),
+        new Set(profiles.flatMap((profileData) => profileData.habilidadesTecnicas)),
       ).sort(),
     [],
   )
 
   const filteredProfiles = useMemo(() => {
-    return profiles.filter((p) => {
-      const matchesName = p.nome
+    return profiles.filter((profileData) => {
+      const matchesName = profileData.nome
         .toLowerCase()
         .includes(searchTerm.toLowerCase())
-      const matchesArea = area ? p.area === area : true
-      const matchesCidade = cidade ? p.localizacao === cidade : true
+      const matchesArea = area ? profileData.area === area : true
+      const matchesCidade = cidade ? profileData.localizacao === cidade : true
       const matchesTech = tecnologia
-        ? p.habilidadesTecnicas.includes(tecnologia)
+        ? profileData.habilidadesTecnicas.includes(tecnologia)
         : true
       return matchesName && matchesArea && matchesCidade && matchesTech
     })
