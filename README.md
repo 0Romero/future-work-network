@@ -37,7 +37,7 @@ Passos:
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/SEU-USUARIO/future-work-network.git
+git clone https://github.com/0Romero/future-work-network.git
 cd future-work-network
 
 # 2. Instalar dependências
