@@ -58,6 +58,8 @@ npm run preview
 ```
 
 
+## 4. Link do deploy
+https://future-work-network-kqv2cczs6-romeros-projects-2e15cb4d.vercel.app
 
 
 ## 5. Link do repositório
