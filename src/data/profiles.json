@@ -1,0 +1,3902 @@
+[
+  {
+    "id": 1,
+    "nome": "Rafaela Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Rafaela%20Costa",
+    "cargo": "Especialista em Dados",
+    "resumo": "Profissional da área de dados com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "SQL",
+      "Kubernetes",
+      "Python"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Dados Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Música",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Mariana Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Mariana%20Oliveira",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind CSS",
+      "Figma",
+      "Kubernetes",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Gabriela Souza",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Gabriela%20Souza",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Flask",
+      "AWS",
+      "Kubernetes",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Educação"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Samuel Fernandes",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Samuel%20Fernandes",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Django",
+      "Python",
+      "CI/CD",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ],
+    "hobbies": [
+      "Música",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Isabela Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Isabela%20Almeida",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Git",
+      "Kubernetes",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Futuro do trabalho",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Lucas Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Lucas%20Costa",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Spark",
+      "Python",
+      "Git",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Sustentabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Ana Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Ana%20Almeida",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "AWS",
+      "Git",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "IA ética"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Música"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Rafaela Silva",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Rafaela%20Silva",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Flask",
+      "Power BI",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Mariana Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Mariana%20Santos",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "TypeScript",
+      "CI/CD",
+      "AWS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Educação"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Henrique Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Henrique%20Santos",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Kubernetes",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Música",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "João Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=João%20Almeida",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Flask",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Talita Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Talita%20Santos",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Figma",
+      "JavaScript",
+      "Tailwind CSS",
+      "Git"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Sustentabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Vicente Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Vicente%20Oliveira",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "AWS",
+      "Docker",
+      "Figma"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Música",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Felipe Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Felipe%20Costa",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Spark",
+      "Python",
+      "NoSQL",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Gabriela Pereira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Gabriela%20Pereira",
+    "cargo": "Especialista em Dados",
+    "resumo": "Profissional da área de dados com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Figma",
+      "React",
+      "Git",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Dados Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Rafaela Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Rafaela%20Costa",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Power BI",
+      "Spark",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Música",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Samuel Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Samuel%20Costa",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Flask",
+      "SQL",
+      "Node.js",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Microsoft Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Música"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Mariana Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Mariana%20Almeida",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "CI/CD",
+      "Git",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Autonomia",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Sustentabilidade"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Eduarda Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Eduarda%20Santos",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Git",
+      "Docker",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Eduarda Lima",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Eduarda%20Lima",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "AWS",
+      "Git",
+      "Flask"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Vicente Lima",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Vicente%20Lima",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "SQL",
+      "CI/CD",
+      "Django"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "João Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=João%20Almeida",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Spark",
+      "Power BI",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Educação"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Eduarda Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Eduarda%20Almeida",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Kubernetes",
+      "TypeScript",
+      "SQL",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Sustentabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Carla Lima",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Carla%20Lima",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Flask",
+      "Django",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Futuro do trabalho",
+      "Educação"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Música"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Mariana Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Mariana%20Oliveira",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Spark",
+      "Next.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Música",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Isabela Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Isabela%20Oliveira",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Docker",
+      "Django",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Microsoft Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Samuel Ribeiro",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Samuel%20Ribeiro",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "JavaScript",
+      "TypeScript",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Música"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "João Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=João%20Almeida",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Flask",
+      "Tailwind CSS",
+      "Python",
+      "Git"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Autonomia",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Música"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Samuel Lima",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Samuel%20Lima",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Tailwind CSS",
+      "Figma",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Carla Fernandes",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Carla%20Fernandes",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Next.js",
+      "Figma",
+      "Git"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Futuro do trabalho",
+      "Educação"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Música"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Carla Silva",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Carla%20Silva",
+    "cargo": "Especialista em Dados",
+    "resumo": "Profissional da área de dados com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Python",
+      "Node.js",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Dados Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ],
+    "hobbies": [
+      "Música",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Mariana Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Mariana%20Oliveira",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Figma",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Isabela Souza",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Isabela%20Souza",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "SQL",
+      "Spark",
+      "NoSQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Autonomia",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Samuel Silva",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Samuel%20Silva",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "React",
+      "Kubernetes",
+      "Node.js",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Ana Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Ana%20Almeida",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Django",
+      "Docker",
+      "AWS",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Bruno Fernandes",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Bruno%20Fernandes",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "Git",
+      "Spark",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Autonomia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Mariana Lima",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Mariana%20Lima",
+    "cargo": "Especialista em Dados",
+    "resumo": "Profissional da área de dados com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Git",
+      "Flask",
+      "Spark"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Dados Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "IA ética"
+    ],
+    "hobbies": [
+      "Música",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Henrique Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Henrique%20Costa",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Spark",
+      "Git",
+      "Django",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA ética"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Bruno Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Bruno%20Oliveira",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Flask",
+      "Next.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Felipe Fernandes",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Felipe%20Fernandes",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "JavaScript",
+      "NoSQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cidades inteligentes",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Ana Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Ana%20Almeida",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Tailwind CSS",
+      "Git",
+      "NoSQL",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Microsoft Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Música",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "João Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=João%20Santos",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Figma",
+      "NoSQL",
+      "SQL",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Lucas Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Lucas%20Santos",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Power BI",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Música",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Lucas Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Lucas%20Oliveira",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Python",
+      "Tailwind CSS",
+      "Git",
+      "Docker"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Autonomia",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Henrique Fernandes",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Henrique%20Fernandes",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "JavaScript",
+      "Next.js",
+      "Spark"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Futuro do trabalho",
+      "IA ética"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Henrique Ribeiro",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Henrique%20Ribeiro",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Flask",
+      "JavaScript",
+      "Next.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Microsoft Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Música",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Talita Fernandes",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Talita%20Fernandes",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Tailwind CSS",
+      "JavaScript",
+      "CI/CD",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Organização",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Isabela Souza",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Isabela%20Souza",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Flask",
+      "AWS",
+      "Docker",
+      "Next.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Felipe Silva",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Felipe%20Silva",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Flask",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Saúde digital"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Música"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Bruno Pereira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Bruno%20Pereira",
+    "cargo": "Especialista em Dados",
+    "resumo": "Profissional da área de dados com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Figma",
+      "Spark",
+      "Django"
+    ],
+    "softSkills": [
+      "Autonomia",
+      "Liderança",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Dados Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Karina Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Karina%20Santos",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Next.js",
+      "AWS",
+      "TypeScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Nicolas Souza",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Nicolas%20Souza",
+    "cargo": "Especialista em Design",
+    "resumo": "Profissional da área de design com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Power BI",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Design Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Rafaela Pereira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Rafaela%20Pereira",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "NoSQL",
+      "Flask",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Microsoft Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Nicolas Ribeiro",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Nicolas%20Ribeiro",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TypeScript",
+      "Power BI",
+      "CI/CD",
+      "Git"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Samuel Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Samuel%20Oliveira",
+    "cargo": "Especialista em Desenvolvimento",
+    "resumo": "Profissional da área de desenvolvimento com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Python",
+      "Git",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Desenvolvimento Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "Microsoft Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Tecnologia",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Gabriela Santos",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Gabriela%20Santos",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "NoSQL",
+      "Power BI",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 2",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Inclusão digital"
+    ],
+    "hobbies": [
+      "Música",
+      "Leitura"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Eduarda Costa",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Eduarda%20Costa",
+    "cargo": "Especialista em Produto",
+    "resumo": "Profissional da área de produto com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "Python",
+      "Flask"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 3",
+        "cargo": "Produto Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Scrum Foundation Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Cidades inteligentes"
+    ],
+    "hobbies": [
+      "Música",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Eduarda Almeida",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Eduarda%20Almeida",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Figma",
+      "Power BI",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 4",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Foundation Professional",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inclusão digital",
+      "Educação"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Tecnologia"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Karina Ribeiro",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=Karina%20Ribeiro",
+    "cargo": "Especialista em RH Tech",
+    "resumo": "Profissional da área de rh tech com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "RH Tech",
+    "habilidadesTecnicas": [
+      "Tailwind CSS",
+      "Django",
+      "Flask",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 5",
+        "cargo": "RH Tech Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Figma Interface Design",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Saúde digital",
+      "Educação"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Esportes"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "João Oliveira",
+    "foto": "https://api.dicebear.com/7.x/initials/svg?seed=João%20Oliveira",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional da área de infraestrutura com foco em soluções colaborativas, experiência em times multidisciplinares e interesse em iniciativas ligadas ao futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Django",
+      "Docker",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Autonomia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Tech 1",
+        "cargo": "Infraestrutura Pleno",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos multidisciplinares focados no futuro do trabalho e transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Tecnologia",
+        "instituicao": "Instituto Federal de Tecnologia",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Colaborativa X",
+        "link": "https://example.com/projeto-x",
+        "descricao": "Aplicação web para conexão de profissionais e compartilhamento de conhecimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Figma Interface Design"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Futuro do trabalho"
+    ],
+    "hobbies": [
+      "Esportes",
+      "Tecnologia"
+    ]
+  }
+]
