@@ -25,10 +25,10 @@ export function useDarkMode() {
   return { toggleDarkMode }
 }
 
-export function DarkModeToggle({ onToggle }) {
+export function DarkModeToggle({ IsOn }) {
   return (
     <button
-      onClick={onToggle}
+      onClick={IsOn}
       className="inline-flex items-center gap-1 rounded-full border border-slate-300 dark:border-slate-500 px-3 py-1.5 text-xs font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
     >
       <span className="hidden sm:inline">Alternar tema</span>
