@@ -57,47 +57,22 @@ npm run build
 npm run preview
 ```
 
-## 3. Usuários e senhas
 
-Esta aplicação **não possui autenticação** nem área logada.
-Não há usuários ou senhas definidos.
 
-## 4. Link do deploy
-
-Sugestão de ambiente de deploy: **Vercel** ou **Netlify**.
-
-- Link do deploy (preencher após publicar):
-  - `https://SEU-DEPLOY-AQUI.vercel.app`
-
-> Para publicar na Vercel:
-> 1. Criar conta em https://vercel.com
-> 2. Importar o repositório a partir do GitHub.
-> 3. Conferir se o comando de build é `npm run build` e a pasta de saída é `dist`.
-> 4. Confirmar o deploy e copiar a URL final.
 
 ## 5. Link do repositório
 
 - Repositório GitHub (preencher com o link real):
-  - `https://github.com/SEU-USUARIO/future-work-network`
+  - `https://github.com/0Romero/future-work-network`
 
-> Recomenda-se manter **no mínimo 10 commits**, registrando:
-> - Criação do projeto base com Vite.
-> - Configuração do Tailwind CSS.
-> - Criação da estrutura de componentes.
-> - Criação e integração do JSON com 60 perfis.
-> - Implementação de busca, filtros, modal e dark mode.
-> - Ajustes de responsividade e refinamentos de design.
 
 ## 6. Nomes e RMs dos integrantes do grupo
 
-Preencha abaixo com os dados do grupo:
 
-- Nome 1 – RM XXXXX
-- Nome 2 – RM XXXXX
-- Nome 3 – RM XXXXX
-- Nome 4 – RM XXXXX
+
+- Nome Guilherme Romero  – RM 564431
+- Nome Felipe Bernardes – RM 564360
+- 
 
 ---
 
-Qualquer ajuste específico da disciplina (layout, texto dos perfis, cores, etc.) pode ser feito diretamente
-nos componentes React e no arquivo `src/data/profiles.json`, mantendo a estrutura de dados combinada no enunciado.
