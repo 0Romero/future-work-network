@@ -29,7 +29,7 @@ export function DarkModeToggle({ onToggle }) {
   return (
     <button
       onClick={onToggle}
-      className="inline-flex items-center gap-1 rounded-full border border-slate-300 dark:border-slate-600 px-3 py-1.5 text-xs font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+      className="inline-flex items-center gap-1 rounded-full border border-slate-300 dark:border-slate-500 px-3 py-1.5 text-xs font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
     >
       <span className="hidden sm:inline">Alternar tema</span>
       <span className="sm:hidden">Tema</span>
