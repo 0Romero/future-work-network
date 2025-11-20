@@ -72,7 +72,6 @@ npm run preview
 
 - Nome Guilherme Romero  – RM 564431
 - Nome Felipe Bernardes – RM 564360
-- 
 
 ---
 
