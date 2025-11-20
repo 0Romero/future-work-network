@@ -20,7 +20,7 @@ export function SearchAndFilters({
         <input
           type="text"
           value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
+          onChange={(element) => setSearchTerm(element.target.value)}
           placeholder="Digite o nome do profissional..."
           className="w-full rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/60"
         />
@@ -32,7 +32,7 @@ export function SearchAndFilters({
           </label>
           <select
             value={area}
-            onChange={(e) => setArea(e.target.value)}
+            onChange={(element) => setArea(element.target.value)}
             className="w-full rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/60"
           >
             <option value="">Todas</option>
@@ -49,7 +49,7 @@ export function SearchAndFilters({
           </label>
           <select
             value={cidade}
-            onChange={(e) => setCidade(e.target.value)}
+            onChange={(element) => setCidade(element.target.value)}
             className="w-full rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/60"
           >
             <option value="">Todas</option>
